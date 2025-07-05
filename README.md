@@ -33,3 +33,4 @@ In deployment, the model can be integrated into applications that require real-t
 In conclusion, image classification models are a cornerstone of computer vision. With deep learning advancements, they continue to evolve, becoming more accurate, efficient, and capable of tackling complex real-world challenges. As data availability and computing power grow, these models will play an even more vital role in how machines understand and interact with visual information.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/f6da19e4-2ac7-4b20-88b3-2b2f351fbac2)
